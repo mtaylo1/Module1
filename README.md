@@ -3,7 +3,7 @@ Changes I made:
 
 1) Made comments to better understand the html 
 
-2) Replacing <div> with proper semantic elements
+2) Replacing "div" with proper semantic elements
 
 3) Organized CSS by section
 
