@@ -8,3 +8,7 @@ Changes I made:
 3) Organized CSS by section
 
 4) Refactored sections in the CSS that had the same properties
+
+Screenshot: https://mtaylo1.github.io/Module1/Develop/assets/images/Screenshot - Horiseon.png
+
+Link to deployed application: https://mtaylo1.github.io/Module1/
